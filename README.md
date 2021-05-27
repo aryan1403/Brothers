@@ -11,7 +11,7 @@
   After then run the _brothers.java_ file using any IDE or using your terminal, command prompt or anything you prefer this Code doesn't depend on ay   specific _OS_ you can run it through any ;)
 
 ## Contribution
-  I don't think there is anything to **Contribute** for anyways, I have no problem if you _kang/Edit_ my Code. If you want to Contribute with me you   can make a Pull Request :)
+  I have no problem if you _kang/Edit_ my Code. I don't think there is anything to **Contribute** for anyways, If you want to Contribute with me you   can make a Pull Request :)
   
 ## Need some help? Drop a message to me 
 1) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hellion_OP)
