@@ -4,7 +4,7 @@
   
   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
   ## _Quik Note :-_
-  This project has nothing related to any Educational Project. I made it just for fun purpose. 
+  This project is not related to Educational purpose. I made it just for fun  
   
 ## Quick Start
   To **Run** this code yo should have **Java** Installed on your system.
