@@ -1,6 +1,6 @@
 # Description
 ## Brother's
-  A **Java** program 
+  A **Java** program made by [Me](https://github.com/Hellboy-Aaryan) for [Atul](https://github.com/hellboi-atul) (Brother)
   
   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
   ## _Quik Note :-_
