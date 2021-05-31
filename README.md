@@ -7,7 +7,7 @@
   This project is not related to Educational purpose. I made it just for fun  
   
 ## Quick Start
-  To **Run** this code yo should have **Java** Installed on your system.
+  To **Run** this code you should have **Java** Installed on your system.
   After then run the _brothers.java_ file using any IDE or using your terminal, command prompt or anything you prefer this Code doesn't depend on ay   specific _OS_ you can run it through any ;)
 
 ## Contribution
