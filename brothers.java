@@ -25,6 +25,10 @@ public class brothers {
     }
 
     public static void main(String[] args) {
-        checkBrothers("aaryan", "atul");
+        System.out.println("Enter the first name");
+        String name1 = sc.nextLine();
+        System.out.println("Enter the second name");
+        String name2 = sc.nextLine();
+        checkBrothers(name1, name2);
     }
 }
