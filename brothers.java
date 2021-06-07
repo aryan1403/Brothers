@@ -14,11 +14,19 @@ public class brothers {
 
             System.out.println("Happiness : " + happiness);
             System.out.println("Wanna contribute ??");
+            System.out.println("1. yes");
             String choice = sc.nextLine();
-            if (choice.equalsIgnoreCase("yes"))
-                System.out.println("Mela Bhai");
-            else
-                System.out.println("No problem brother");
+            switch (choice) {
+                case "yes":
+                    System.out.println("Mela Bhai");
+                    break;
+                case "no":
+                    System.out.println("No problem brother");
+                    break;
+                default:
+                    System.out.println("Wrong choice !!");
+                    break;
+            }
             return true;
         }
         return false;
