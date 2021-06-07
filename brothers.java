@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class brothers {
     static Scanner sc = new Scanner(System.in);
 
+    static String choice;
+
     public static boolean checkBrothers(String n, String n2) {
         int happiness = 0;
         if (n.equalsIgnoreCase("aaryan") && n2.equalsIgnoreCase("atul")
@@ -13,9 +15,7 @@ public class brothers {
                 happiness += 20;
 
             System.out.println("Happiness : " + happiness);
-            System.out.println("Wanna contribute ??");
-            System.out.println("1. yes");
-            String choice = sc.nextLine();
+            meow();
             switch (choice) {
                 case "yes":
                     System.out.println("Mela Bhai");
@@ -25,11 +25,19 @@ public class brothers {
                     break;
                 default:
                     System.out.println("Wrong choice !!");
+                    meow();
                     break;
             }
             return true;
         }
         return false;
+    }
+
+    public static void meow() {
+        System.out.println("Wanna contribute ??");
+        System.out.println("1. yes");
+        System.out.println("2. no");
+        choice = sc.nextLine();
     }
 
     public static void main(String[] args) {
