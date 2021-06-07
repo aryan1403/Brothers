@@ -12,7 +12,7 @@ public class brothers {
             while (happiness < 100)
                 happiness += 20;
 
-            System.out.println(happiness);
+            System.out.println("Happiness : " + happiness);
             System.out.println("Wanna contribute ??");
             String choice = sc.nextLine();
             if (choice.equalsIgnoreCase("yes"))
@@ -29,6 +29,8 @@ public class brothers {
         String name1 = sc.nextLine();
         System.out.println("Enter the second name");
         String name2 = sc.nextLine();
-        checkBrothers(name1, name2);
+        if (checkBrothers(name1, name2) != true) {
+            System.out.println("LOL! try Entering Atul & Aaryan as names");
+        }
     }
 }
